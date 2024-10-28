@@ -6,9 +6,9 @@ spring:
     name: authservice
 
   datasource:
-    url: jdbc:postgresql://localhost:54321/habrdb1
-    username: habrpguser1
-    password: pgpwd4habr
+    url: jdbc:postgresql://localhost:54321
+    username: 
+    password: 
     driver-class-name: org.postgresql.Driver
 
   jpa:
